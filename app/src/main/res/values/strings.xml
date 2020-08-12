@@ -4,7 +4,7 @@
     <string name="button">Button</string>
     <string name="text1">Text</string>
     <string name="text2">Text</string>
-    <string name="button1">Button1</string>
-    <string name="button2">Button2</string>
-    <string name="button3">Button3</string>
+    <string name="button1">Button01</string>
+    <string name="button2">Button02</string>
+    <string name="button3">Button03</string>
 </resources>
