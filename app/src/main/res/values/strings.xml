@@ -7,4 +7,16 @@
     <string name="button1">Button01</string>
     <string name="button2">Button02</string>
     <string name="button3">Button03</string>
+    <string name="Text3">ClickTextView</string>
+    <string name="T4">T4</string>
+    <string name="T1">1</string>
+    <string name="T2">2</string>
+    <string name="T3">3</string>
+    <string name="R1">Text color = red</string>
+    <string name="R2">Text color = green</string>
+    <string name="R3">Text color = blue</string>
+    <string name="R4">Text size = 22</string>
+    <string name="R5">Text size = 26</string>
+    <string name="R6">Text size = 30</string>
+    <string name="R0">001</string>
 </resources>
